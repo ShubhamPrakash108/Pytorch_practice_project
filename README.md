@@ -1,1 +1,1 @@
-# Pytorch_practice_project
+# Pytorch_practice_notebook
